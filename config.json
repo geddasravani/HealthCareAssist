@@ -1,0 +1,31 @@
+{
+    "name": "HealthCare Assist",
+    "envVariables": [
+        {
+            "key": "host",
+            "value": "https://platform.kore.ai/",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "botId",
+            "value": "st-bd51cf1f-a3d3-5c05-97dd-d7582d2276e4",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        }
+    ]
+}
